@@ -11,7 +11,7 @@
 - **Software Engineer** [2012-2013 Upstream Mobile Marketing, UK].
 
 ## Educacation:
-- **Master's Degree in e-Learning and KManagement** [2016, University of Rovira i Virgili]
+- **Master's Degree in e-Learning and KManagement** [2016, University of Rovira i Virgili and others (online)]
 - **Degree in Computer Engineering** [2008, University of Murcia]
 - **HNC Computer Systems Administration** [2003, IES Ingeniero de la Cierva]
 

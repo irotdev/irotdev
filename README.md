@@ -1,5 +1,5 @@
 # José Manuel Muñoz Simó
-**[ josemmsimo | irotdev ]** Since 2004 in the world of software and web development.
+**[ josemmsimo | irotdev ]**
 - :satellite: 》Software Engineer.
 - :computer: 》Backend Developer.
 - :school: 》IT Teacher.
@@ -13,7 +13,6 @@
 ## Educacation:
 - **Master's Degree in e-Learning and KManagement** [2016, University of Rovira i Virgili and others (online)]
 - **Degree in Computer Engineering** [2008, University of Murcia]
-- **HNC Computer Systems Administration** [2003, IES Ingeniero de la Cierva]
 
 ## Technologies:
 [![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&labelColor=101010)]()

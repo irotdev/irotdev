@@ -4,17 +4,17 @@
 - :computer: 》Backend Developer.
 - :school: 》IT Teacher.
 
-## Experience:
-- **Teacher in IT Schools** [since 2009, Spain].
-- **Various projects mainly as Backend Developer** [since 2004, normally remote projects].
-- **Backend Developer** [2014-2015 Docler Holding, Luxembourg].
-- **Software Engineer** [2012-2013 Upstream Mobile Marketing, UK].
+## [Main] Experience:
+- **Teacher in IT Schools** [2009-2012 & 2015-now, **Spain**].
+- **Backend Developer** [2014-2015 Docler Holding, **Luxembourg**].
+- **Software Engineer** [2012-2013 Upstream Mobile Marketing, **UK**].
+- **Various projects mainly as Backend Developer** [Normally **remote projects**].
 
-## Educacation:
+## [Main] Educacation:
 - **Master's Degree in e-Learning and KManagement** [2016, University of Rovira i Virgili and others (online)]
 - **Degree in Computer Engineering** [2008, University of Murcia]
 
-## Technologies:
+## [Main] Technologies:
 [![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&labelColor=101010)]()
 [![PHP](https://img.shields.io/badge/PHP-0000FF?style=for-the-badge&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-00FF00?style=for-the-badge&labelColor=101010)]()
